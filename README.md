@@ -1,4 +1,4 @@
-﻿# CodeAlpha Tasks (October Batch)
+﻿# Auspify Technologies Internship Tasks
 
 Machine learning tasks completed on the Netflix titles dataset. Each folder contains its own notebook, README, report, and supporting files.
 
